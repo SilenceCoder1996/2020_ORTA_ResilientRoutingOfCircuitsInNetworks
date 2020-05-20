@@ -10,12 +10,3 @@ Main idea 1.1：
 2. Determine the relevant mathematical formula.
 3. Based on the online material and the project coding structure structure from professor to simulate the network.
 4. Run the data to analyze (Key question:at most h primary paths can share the same link.----->How much the parameters influence the solution?)
-
-Basic Mind Graph 1.0:
-
-![image](https://github.com/SilenceCoder1996/Resilient-Routing-Of-Circuits-In-Networks/blob/master/MindGraph.png)
-
-Basic python.networkx test:
-
-![image](https://github.com/SilenceCoder1996/Resilient-Routing-Of-Circuits-In-Networks/blob/master/BasicNetworkxTest.png)
-
